@@ -12,4 +12,4 @@ I Wanted to make a logo for a game dev studio on the given submit _Mind Escape_.
 
 **This is the result**
 
-C:\Git_Repo\GameDesign_Assignment\Mind_Escape_Export.png
+C:\Git_Repo\Game_Design_Assignment\Mind_Escape_Export.png
