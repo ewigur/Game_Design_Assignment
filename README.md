@@ -15,3 +15,17 @@ I Wanted to make a logo for a game dev studio on the given submit _Mind Escape_.
 
 <sub>Image made with _Procreate_ and text done in _Affinity Photo 2_
 Font made by _Font Monger_ found on _Dafont_</sub>
+
+## Second Contribution
+### Game menu: *Cyberium*
+
+A game title screen for a fictive game on the given submit _Cyberium_
+I decided on making a cool background that didn't take little, and too much space from the game title and subtext.
+I also wanted to make buttons to create a the feel of it being a game menu.
+
+**This is the result**
+
+![cyberium_export](https://github.com/user-attachments/assets/c6ac26c1-d88f-4baa-900c-59718cd04b25)
+
+<sub>Image made with _Procreate_ and text done in _Affinity Photo 2_
+Fonts made by _Andrew Tyler atyler.dev@gmail.com_ (subtest) and _Chequered Ink_ (title)</sub>
