@@ -28,4 +28,4 @@ I also wanted to make buttons to create a the feel of it being a game menu.
 ![cyberium_export](https://github.com/user-attachments/assets/c6ac26c1-d88f-4baa-900c-59718cd04b25)
 
 <sub>Image made with _Procreate_ and text done in _Affinity Photo 2_
-Fonts made by _Andrew Tyler atyler.dev@gmail.com_ (subtest) and _Chequered Ink_ (title)</sub>
+Fonts made by _Andrew Tyler atyler.dev@gmail.com_ (subtext) and _Chequered Ink_ (title)</sub>
