@@ -23,7 +23,7 @@ A game title screen for a fictive game on the given submit _Cyberium_
 I decided on making a cool background that didn't take little, and too much space from the game title and subtext.
 I also wanted to make buttons to create a the feel of it being a game menu.
 
-**This is the result**(updated)
+**This is the result** (updated)
 
 ![cyberium_export](https://github.com/user-attachments/assets/d70f87af-b4e2-49e9-aa1f-225187e5563e)
 
